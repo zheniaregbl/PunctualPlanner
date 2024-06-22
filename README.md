@@ -1,5 +1,8 @@
 # Punctual Planner
 
+[![ru](https://img.shields.io/badge/language-ru-blue.svg)](https://github.com/zheniaregbl/PunctualPlanner/blob/main/README.md)
+[![en](https://img.shields.io/badge/language-en-red.svg)](https://github.com/zheniaregbl/PunctualPlanner/blob/main/README.en.md)
+
 ### О проекте
 Punctual Planner - мобильный Task-менеджер для Android. Приложение упрощает процесс планирования задач в разных сферах, с возможностью их детализации.
 
